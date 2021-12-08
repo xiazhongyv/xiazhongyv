@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiazhongyv&show_icons=true&theme=radical&count_private=true/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiazhongyv&show_icons=true&theme=tokyonight)
 
 ### Hello, World 👋
 
